@@ -1,0 +1,20 @@
+{
+  "feedback": {
+    "thumbsUp": 0,
+    "thumbsDown": 0
+  },
+  "text_feedback": [
+    {
+      "text": "rising",
+      "thumbsUp": 1,
+      "thumbsDown": 0,
+      "comment": ""
+    },
+    {
+      "text": "rising with drought and WUI growth",
+      "thumbsUp": 0,
+      "thumbsDown": 0,
+      "comment": "test"
+    }
+  ]
+}
